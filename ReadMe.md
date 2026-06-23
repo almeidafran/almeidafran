@@ -93,9 +93,7 @@ I’m a biologist (UFES, 2016), with an M.Sc. in Biotechnology (UFES, 2018) and 
 <br/>
 
 <p>
-  <img alt="Nextflow" src="https://img.shields.io/badge/Nextflow-4EA94B?style=for-the-badge" />
-  <img alt="nf-core" src="https://img.shields.io/badge/nf--core-333333?style=for-the-badge" />
-  <img alt="Snakemake" src="https://img.shields.io/badge/Snakemake-4B8BBE?style=for-the-badge" />
+
   <img alt="SLURM" src="https://img.shields.io/badge/SLURM-2E7D32?style=for-the-badge" />
   <img alt="GATK" src="https://img.shields.io/badge/GATK-0B3D91?style=for-the-badge" />
   <img alt="BWA" src="https://img.shields.io/badge/BWA-555555?style=for-the-badge" />
@@ -104,7 +102,7 @@ I’m a biologist (UFES, 2016), with an M.Sc. in Biotechnology (UFES, 2018) and 
   <img alt="BCFtools" src="https://img.shields.io/badge/BCFtools-00695C?style=for-the-badge" />
   <img alt="FastQC" src="https://img.shields.io/badge/FastQC-1565C0?style=for-the-badge" />
   <img alt="PLINK" src="https://img.shields.io/badge/PLINK-3949AB?style=for-the-badge" />
-  <img alt="scikit-allel" src="https://img.shields.io/badge/scikit--allel-263238?style=for-the-badge" />
+  
 </p>
 
 ---
