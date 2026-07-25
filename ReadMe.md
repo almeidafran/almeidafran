@@ -107,32 +107,7 @@ I’m a biologist (UFES, 2016), with an M.Sc. in Biotechnology (UFES, 2018) and 
 
 ---
 
-### 📊 Stats
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=almeidafran&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
-  />
-  <img 
-    align="left" 
-    alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=almeidafran&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=10" 
-  />
-</p>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 ---
 ### 🤝 Collaboration & contact
